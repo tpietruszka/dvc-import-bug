@@ -1,0 +1,11 @@
+md5: b5d96d7052b38f89430e36e944c79764
+frozen: true
+deps:
+- path: subdir/images/owl_sticker.png
+  repo:
+    url: https://github.com/tomaszpietruszka-globality/toy-dvc-registry.git
+    rev_lock: b5f95c4dd49aa5843e6d0ae0113e13ebb8b92352
+outs:
+- md5: fa8b9e82c893eb401f30c353bd550ada
+  size: 120357
+  path: owl_sticker.png
